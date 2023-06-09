@@ -1,5 +1,3 @@
-# 30 stars and ill release code
-
 # https://skids.gay
 
 ![image](https://github.com/syntheticlol/skids.gay/assets/130696187/e90b0c31-71a5-4560-bf9f-a0439b2a327a)
